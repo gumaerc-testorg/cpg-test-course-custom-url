@@ -11,7 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/publicdomain/zero/1.0/
-resourcetype: Other
+resourcetype: Video
 title: video.mp4
 uid: dec59b76-b74a-4e2e-adc7-5e2a00cef01a
 video_files:
