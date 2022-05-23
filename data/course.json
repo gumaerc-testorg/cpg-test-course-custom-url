@@ -1,0 +1,28 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "cpg-test-course-custom-url"
+  },
+  "course_image": {
+    "content": "",
+    "website": "cpg-test-course-custom-url"
+  },
+  "course_title": "cpg-test-course-custom-url",
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "cpg-test-course-custom-url"
+  },
+  "learning_resource_types": [],
+  "site_uid": "30be9a16-fe2b-419e-b6c9-54714d1f4ebb"
+}
