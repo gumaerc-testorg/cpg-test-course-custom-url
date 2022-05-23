@@ -15,9 +15,9 @@ resourcetype: Video
 title: video.mp4
 uid: dec59b76-b74a-4e2e-adc7-5e2a00cef01a
 video_files:
-  video_captions_file: ''
+  video_captions_file: https://www.omao.noaa.gov/sites/default/files/vtt/big-buck-bunny.vtt
   video_thumbnail_file: ''
-  video_transcript_file: ''
+  video_transcript_file: http://www.africau.edu/images/default/sample.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
