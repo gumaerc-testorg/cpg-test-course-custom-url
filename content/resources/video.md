@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 description: ''
-draft: ''
+draft: false
 file: /courses/a-course-customized-url/video.mp4
 file_type: video/mp4
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: ''
+license: https://creativecommons.org/publicdomain/zero/1.0/
 resourcetype: Other
 title: video.mp4
 uid: dec59b76-b74a-4e2e-adc7-5e2a00cef01a
